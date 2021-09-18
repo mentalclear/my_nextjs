@@ -1,2 +1,2 @@
-## My repo for Next.js tutorial progres
+## My repo for Next.js tutorial progress
 
